@@ -1,4 +1,12 @@
+/*
+Mental health hacks May 21-23
+Java GUI prototype application 
+download and run the .bat 
 
+developer: Steven Bai
+
+
+*/
 import java.awt.event.*;
 import java.awt.Toolkit;
 
